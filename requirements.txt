@@ -1,0 +1,4 @@
+Django~=3.1.7
+
+# pythonanywhere APItoken : 7e970a584074da9b5194515a2e48d131ca3e5abd
+# peco.paco.ks : pythonanywherep@ssw0rd
